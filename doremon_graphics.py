@@ -317,5 +317,5 @@ if __name__ == '__main__':
     speed(10)    
     Doraemon()
     my_goto(-150, -300)
-    write('Created By Sanskar Shimpi', font=("Bradley Hand ITC", 10, "bold"))
+    write('Created By Sanskar Shimpi AND Sujal Deshmukh', font=("Bradley Hand ITC", 10, "bold"))
     mainloop()
